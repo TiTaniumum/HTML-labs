@@ -1,0 +1,22 @@
+.style1{
+    text-align: center;
+    color: rgb(31, 0, 123);
+    font-family: sans-serif;
+}
+
+.style2{
+    font-family: sans-serif;
+    color: dimgray;
+    text-align: left;
+}
+
+.style3{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+.style4{
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 12px;
+}

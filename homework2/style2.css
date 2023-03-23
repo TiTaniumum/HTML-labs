@@ -1,0 +1,22 @@
+.style1{
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.style2{
+    font-family: sans-serif;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+.style3{
+    display: inline-block;
+    font-size: 25px;
+    background-color: lightgray;
+    padding: 5px;
+}
+
+#red{
+    color:rgb(149, 34, 34);
+}

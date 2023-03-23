@@ -1,0 +1,21 @@
+ol{
+    background-color: rgb(227, 154, 181);
+    margin: 10px;
+    padding: 25px;
+    display: inline-block;
+    width: 20%;
+}
+
+li{
+    padding:10px;
+    margin:10px;
+    margin-left: 20px;
+    background-color: #882247;
+    color:white;
+    font-family: fantasy;
+    font-size: 13px;
+}
+
+.directions {
+    background-color: rgb(160, 73, 109);
+}

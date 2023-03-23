@@ -1,0 +1,43 @@
+ol{
+    background-color: rgb(231, 231, 231);
+    display:inline-block;
+    width:30%;
+    padding:40px;
+}
+li{
+    margin-left: 30px;
+    padding:10px;
+}
+li::after{
+    color:red;
+    font-family: fantasy;
+    content: '  X';
+    padding-left: 20px;
+}
+.even{
+    background-color: rgb(191, 251, 251);
+}
+.even li::marker{
+    content: url(notselected3.png);
+}
+.odd{
+    background-color: rgb(149, 254, 254);
+}
+.odd li::marker{
+    content: url(notselected3.png);
+}
+.selected{
+    background-color:rgb(174, 174, 174);
+}
+.selected li{
+    text-decoration: line-through;
+}
+
+.selected li::marker{
+    content: url(agree1.png);
+}
+.title{
+    font-size: 20px;
+    margin:10px;
+    font-family: fantasy;
+}

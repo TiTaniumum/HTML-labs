@@ -1,0 +1,43 @@
+.style1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+hr{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.style2{
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 40px;
+    margin-right:40px;
+    display: inline-block;
+}
+
+code{
+    font-family: "Lucida Console", Monaco, monospace;
+    background-color:rgb(237, 237, 237);
+    display: inline-block;
+    padding: 2px;
+    color: rgb(181, 60, 60)   
+}
+
+.style3{
+    font-family: sans-serif;
+    display: inline-block;
+    color: black;   
+}
+
+.style4{
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color:rgb(237, 237, 237);
+}
+
+.style5{
+    background-color: rgb(220, 220, 220);
+    color:rgb(40, 151, 144);
+    display: inline-block;
+}
